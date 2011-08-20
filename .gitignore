@@ -1,6 +1,8 @@
 /include/
+/build/
 /bin/
 /lib/
 /src/
 .*.swp
 *.pyc
+local_settings.py
